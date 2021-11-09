@@ -2,7 +2,7 @@
 <h2>Business Request & User Stories</h2><br>
 The business request for this data analyst project was an executive sales report for sales managers. 
 Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br><br>
-<img src='Capture.PNG'>
+<img src='Capture.png'>
 <br>
 <h2>Data Cleansing & Transformation SQL</h2>
 <br>
@@ -15,12 +15,12 @@ Below are the SQL statements for cleansing and transforming necessary data.
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 <br>
 <br>
-<img src='Data Modelling.PNG'>
+<img src='Data Modelling.png'>
 <br>
 <h2>Key Insight Dashboard</h2>
 <br>
-<img src='Key Insight.PNG'>
+<img src='Key Insight.png'>
 <br>
 <h2>Customer Details Dashboard</h2>
 <br>
-<img src='Sales Insight.PNG'>
+<img src='Sales Insight.png'>
